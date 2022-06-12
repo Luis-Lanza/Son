@@ -1,2 +1,2 @@
-# Guru
+# Emile
 Software tools for teachers
